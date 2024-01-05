@@ -3,8 +3,6 @@
 
 ![Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroseibel&show_icons=true&theme=panda&count_private=true)
 
-## Some of the technologies I have worked with or use daily
-
 <div style="display: inline_block">
   <img height="30" width="40" align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" align="center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
